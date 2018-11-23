@@ -2,6 +2,8 @@ package be.ac.umons.odl;
 
 import org.junit.Test;
 
+import java.awt.*;
+
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
 public class PointTest {
